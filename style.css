@@ -1,0 +1,29 @@
+div{
+    border : 1px solid navy;
+    background : white;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 1%;
+    color:navy;
+    text-align: left;
+}
+
+body{
+    background: navy;
+    color: white;
+    text-align: center;
+
+}
+
+div p{
+    font-weight: 600;
+    font-size: 1.25em;
+}
+
+button{
+    color: navy;
+    font-weight: 900;
+    padding: 1%;
+    border-radius: 8px;
+
+border: 1px solid navy;}
